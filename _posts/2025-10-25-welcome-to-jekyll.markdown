@@ -68,10 +68,3 @@ e.g. 家庭教育“巨婴”；师生关系→人际交往
 一种豁达从容、宽容谅解、悠然自得的人生态度，这与快节奏社会中焦虑不安的“紧绷”心态迥然而异。
 e.g.一家人没有因旅行计划被打乱而紧张焦虑，更没有指责和争吵，而是不慌不忙地重新安排计划
 
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
