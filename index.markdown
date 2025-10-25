@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to Formula-cyr's Site
+# Welcome to Yueru's Site
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
