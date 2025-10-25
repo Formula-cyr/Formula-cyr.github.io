@@ -1,26 +1,74 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "今日名词汇总"
 date:   2025-10-25 05:08:35 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+“心理定格”
+通过比喻、故事、口号等心理定格技术，我们能够将他人的注意力集中到某一特定方面。
+e.g.对新闻的感知受到心理定格的影响。倘若没有判断力，“远方的哭声”运用“春秋笔法”给予人们的焦虑、不安，甚至是煽动，背后或许都是特定传播操控下的结果
 
-Jekyll requires blog post files to be named according to the following format:
+框架效应
+表达方式的差异导致接受方在判断、选择、行动上存在差异。“怎么说”比“说什么”重要。
+e.g. 框架效应告诉我们，进行人际交往和沟通时，应注重语言表达的技巧→人际交往/现象与本质
 
-`YEAR-MONTH-DAY-title.MARKUP`
+南风效应
+核心在于温和的力量。温和柔性的方式往往比强硬强制的手段更能达到目的，强调通过启发、引导、尊重和关怀，让他人自觉接受改变，而非依靠压力或对抗。
+e.g. 兼爱；善言与敢言→刚与柔/人际交往/沟通的艺术/人文关怀
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+“奇观社会”
+形容现代社会，意为奇观堆积，媒体成为奇观发生的主要场所，刺激着人们的欲望和物质消费。
+e.g.“远方的哭声”不仅是和平年代遥远的战火、正在融化的冰川，更是日常无数被消费的“奇观”新闻。
 
-Jekyll also offers powerful support for code snippets:
+“景观社会”
+景观社会是一种影像的社会，它也同消费主义的兴起与发展紧密相连。居伊所言“景观”，不是一种客观的自然、社会景象，而是一种“有意识的表演和作秀”。塑造景观之人将某种目的融入影像之中，呈现给观众，使得观众的注意力从真实的生活之中转移，沉醉于娱乐他的、迷人的影像之中。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+后真相时代
+客观事实在形成舆论方面影响较小，而情感与个人信仰会对舆论产生更大影响。
+e.g. “打卡哀牢山”的鼓吹
+
+祛魅
+现代社会通过理性化、科学化打破传统权威、神秘信仰的过程。
+e.g. 破除迷信/反思盲从/理性批判
+
+赋魅
+与“祛魅”相对，指为事物重新
+注入精神性、神秘感或文化意义的过程。强调“重建精神价值”的过程。
+e.g. 对抗工具理性/重建人文价值/守护灵韵
+
+羊群效应
+从众心理
+e.g. 互联网时代下，个体因距离的拉近而更容易被煽动→保持理性思考/批判盲目从众
+
+剧场效应
+他们的生活被戏剧化，人在观剧和被动演剧的过程中不自觉地抛弃了自我。
+e.g. 网络谣言的传播；抢购日本马桶盖事件→盲目跟风
+
+巴甫洛夫的狗
+个体在长期重复性刺激下，可以形成对权威、奖惩、评价体系的条件反射式回应。这说明，人在社会化过程中，会受到行为规范训练与心理暗示。常被用来形容没有独立思考、盲从而依赖的人。
+e.g. 独立思考/自我与外界/环境影响/依赖/盲从
+
+旁观者效应
+旁观者数量增加，任何一个旁观者提供帮助的可能性反而会减小。群体中每个个体的责任感会很弱。
+e.g. “中国青年都能摆脱冷气，有一份热，发一份光，不必等待炬火”→社会责任/个人与集体
+
+犬儒主义
+蔑视世俗，玩世不恭，对他人的痛苦无动于衷。
+e.g. 在时代的洪流中，犬儒主义早已暴露其怯懦的本质，它对于责任的摒弃无异于对自身作为人的价值的否定→社会担当/内心的道德准则
+
+狗智主义
+犬儒主义的现代形态。“无原则的怀疑”“有意识的虚假”和“不反抗的愤世”。看穿意识形态的虚假，用反讽和玩笑来揭穿规则的不公，却又不愿或无法摆脱现状的束缚，只好迎合既定的规则以保全自身的利益。
+e.g. “狗智时刻”；年轻人戏称自己为“社畜”“牛马”，既体现了年轻人对现实的清醒认知，也蕴含了对无奈现实的自嘲和顺从
+
+刺猬法则
+来自刺猬取暖寓言。指亲密无间，恰到好处的关系，既对彼此有帮助，又不让对方受到伤害。
+e.g. 家庭教育“巨婴”；师生关系→人际交往
+
+“松弛感”
+一种豁达从容、宽容谅解、悠然自得的人生态度，这与快节奏社会中焦虑不安的“紧绷”心态迥然而异。
+e.g.一家人没有因旅行计划被打乱而紧张焦虑，更没有指责和争吵，而是不慌不忙地重新安排计划
+
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
